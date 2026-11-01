@@ -24,4 +24,6 @@ npm run dev
 
 Built with three.js and Vite. Physics is position-based shape matching; sounds are synthesized with WebAudio. See [SPEC.md](SPEC.md) for how it works.
 
-By [Kris Yang](https://krisyang.dev)
+## License
+
+MIT. By [Kris Yang](https://krisyang.dev).
